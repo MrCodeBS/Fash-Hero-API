@@ -1,0 +1,17 @@
+{
+  "category": "Databases",
+  "cards": [
+    {
+      "front": "ACID",
+      "back": "Atomicity, Consistency, Isolation, Durability"
+    },
+    {
+      "front": "Indexing Strukturen",
+      "back": "Data structures used to speed up data retrieval in databases"
+    },
+    {
+      "front": "Caching",
+      "back": "Storing frequently accessed data in memory for faster access"
+    }
+  ]
+}
