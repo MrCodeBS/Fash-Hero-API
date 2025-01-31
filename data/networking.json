@@ -1,0 +1,13 @@
+{
+  "category": "Networking",
+  "cards": [
+    {
+      "front": "TCP/IP",
+      "back": "Core protocols of the Internet: Transmission Control Protocol/Internet Protocol"
+    },
+    {
+      "front": "DNS",
+      "back": "Domain Name System - translates domain names to IP addresses"
+    }
+  ]
+}
