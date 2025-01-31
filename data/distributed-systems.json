@@ -1,0 +1,17 @@
+{
+  "category": "Distributed Systems",
+  "cards": [
+    {
+      "front": "CAP-Theorem C",
+      "back": "Consistency: Every read receives the most recent write or an error"
+    },
+    {
+      "front": "CAP-Theorem A",
+      "back": "Availability: Every request must return a response"
+    },
+    {
+      "front": "CAP-Theorem P",
+      "back": "Partition Tolerance: The system continues to operate despite network failures"
+    }
+  ]
+}
